@@ -4,6 +4,7 @@
 Created on Sun Aug 25 10:34:11 2024
 
 @author: G7
+# credit: google gemini, chatgpt
 """
 
 import numpy as np
